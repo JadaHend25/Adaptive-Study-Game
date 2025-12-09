@@ -1,0 +1,54 @@
+[
+  {
+    "subject": "math",
+    "qtype": "mcq",
+    "prompt": "What is 3x + 2x?",
+    "answer": "5x",
+    "choices": ["3x", "2x", "5x", "6x"],
+    "difficulty": "easy"
+  },
+  {
+    "subject": "math",
+    "qtype": "problem",
+    "prompt": "Solve for x: 2x + 4 = 10",
+    "answer": "3",
+    "difficulty": "easy"
+  },
+  {
+    "subject": "math",
+    "qtype": "recall",
+    "prompt": "What is the integral of 1/x dx?",
+    "answer": "ln|x| + C",
+    "difficulty": "hard"
+  },
+  {
+    "subject": "linux",
+    "qtype": "mcq",
+    "prompt": "Which command shows the first 10 lines of a file?",
+    "answer": "head",
+    "choices": ["head", "tail", "cat", "less"],
+    "difficulty": "medium"
+  },
+  {
+    "subject": "linux",
+    "qtype": "problem",
+    "prompt": "You want to move file.txt into the /tmp directory. Write the command.",
+    "answer": "mv file.txt /tmp",
+    "difficulty": "medium"
+  },
+  {
+    "subject": "cyber",
+    "qtype": "recall",
+    "prompt": "What is the term for malicious software that locks files and demands payment?",
+    "answer": "ransomware",
+    "difficulty": "medium"
+  },
+  {
+    "subject": "cyber",
+    "qtype": "mcq",
+    "prompt": "Which of these is a strong password?",
+    "answer": "Tr0jan!Horse_2025",
+    "choices": ["password123", "Tr0jan!Horse_2025", "123456", "qwerty"],
+    "difficulty": "easy"
+  }
+]
