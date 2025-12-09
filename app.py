@@ -7,7 +7,7 @@ import random
 import pandas as pd
 import streamlit as st
 
-from src.core import (
+from core import  (
     Question,
     Learner,
     build_question_bank,
